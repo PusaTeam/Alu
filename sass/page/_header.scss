@@ -1,0 +1,33 @@
+
+.header{ 
+    z-index: 51100;
+    top: 0;
+    max-width: 1920px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    height: 135px;
+}
+.header__left, .header__right{
+    display: flex;
+    align-items: center;
+    width: 50%;   
+    justify-content: space-evenly;
+}
+.header__left__logo{
+     width: 350px;
+}
+
+.header__left__tickets, .header__right__help{
+   margin: 0 -90px;  
+}
+
+a>i{
+    @include red ();
+}
+a:hover{
+    @include red ();
+}
+a:hover>i{   
+        @include blue (); 
+}
