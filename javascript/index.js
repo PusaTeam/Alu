@@ -84,5 +84,16 @@ document.body.onload = function() {
     if (state.debouncer) clearTimeout(state.debouncer);
     state.debouncer = setTimeout(autocomplete, 300);
   };
+
+  let helpBTN = document.getElementById("helpBTN")
+,  dropMenu = document.getElementById("dropMenu");
+  
+  helpBTN.onclick = function(){
+    dropMenu.classList.toggle("hidden")
+  };
+
+
 }
+
+
 
