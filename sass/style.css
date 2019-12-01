@@ -645,6 +645,7 @@ figure #land {
 body {
   width: 100vw;
   color: #0051AD;
+  background-color: #c6e7f1;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   height: 100vh;
 }
@@ -820,13 +821,13 @@ a {
 }
 
 #toResults {
-  margin-left: 50px;
+  margin-left: 25px;
 }
 
 #from,
 #to {
   z-index: 500;
-  width: 341px;
+  width: 300px;
   height: 39px;
   -webkit-box-shadow: 0 2px 6px 2px #0075B0;
           box-shadow: 0 2px 6px 2px #0075B0;
@@ -842,7 +843,7 @@ a {
   height: -webkit-fit-content;
   height: -moz-fit-content;
   height: fit-content;
-  width: 336px;
+  width: 300px;
   list-style-type: none;
   z-index: 500;
   -webkit-box-shadow: 0 2px 6px 2px #0075B0;
@@ -910,245 +911,54 @@ li > span:last-of-type {
   font-size: 25px;
 }
 
-.info {
-  width: 50%;
-  float: right;
-}
-
-.calender {
-  cursor: pointer;
+#datefrom, #dateto {
+  margin-left: 25px;
+  border-radius: 10px;
+  border: #0075B0;
+  height: 37px;
+  -webkit-box-shadow: 0 2px 6px 2px #0075B0;
+          box-shadow: 0 2px 6px 2px #0075B0;
+  font-size: 20px;
   width: 300px;
-  height: 30px;
-  margin-left: 900px;
-  margin-top: 20px;
-  background-color: transparent;
-  outline: none;
-  font-size: 30px;
-  position: absolute;
-  -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
-  padding: 0px;
-  color: #222;
-  border: 0px;
-  cursor: pointer;
-  overflow: visible;
-  animation: newRow .4s ease-in;
-  -webkit-animation: newRow 0.4s ease-in;
-  -webkit-transition: all 0.4s ease-in;
-  transition: all 0.4s ease-in;
 }
 
-.calender:before,
-.btnSplit:before {
-  content: '';
-  width: 100%;
-  height: 20px;
-  background: #0075B0;
-  border-top-left-radius: 15px;
-  border-top-right-radius: 15px;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  -webkit-transition: all 0.3s ease-in;
-  transition: all 0.3s ease-in;
+::-webkit-datetime-edit {
+  padding: 1em;
 }
 
-.calender:after {
-  content: '';
-  width: 100%;
-  height: 20px;
-  background: #0075B0;
-  position: absolute;
-  border-bottom-left-radius: 15px;
-  border-bottom-right-radius: 15px;
-  bottom: 0px;
-  left: 0px;
-  z-index: 0;
-  -webkit-transition: all 0.3s cubic-bezier(0.55, 0, 0.1, 1);
-  transition: all 0.3s cubic-bezier(0.55, 0, 0.1, 1);
+::-webkit-datetime-edit-fields-wrapper {
+  background: silver;
 }
 
-.btnSplit:after {
-  content: '';
-  width: 100%;
-  text-align: right;
-  height: 20px;
-  background: #0075B0;
-  position: absolute;
-  vertical-align: bottom;
-  height: 75px;
-  bottom: -210px;
-  left: 0px;
-  z-index: 9;
+::-webkit-datetime-edit-text {
+  color: red;
+  padding: 0 0.3em;
 }
 
-.display_span {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  width: 100%;
-  height: 100%;
-  text-align: center;
-  color: whitesmoke;
-  -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
-  z-index: 1;
-  visibility: visible;
-  opacity: 1;
-  font-size: 23px;
-  -webkit-transition: all 0.3s ease-in;
-  transition: all 0.3s ease-in;
-  line-height: 30px;
+::-webkit-datetime-edit-month-field {
+  color: blue;
 }
 
-/* onClick display span dissapears to left*/
-.spanGone {
-  opacity: 0;
-  left: 0px;
-  visibility: hidden;
-  z-index: -1;
+::-webkit-datetime-edit-day-field {
+  color: green;
 }
 
-/* month year spans*/
-.m_y {
-  position: relative;
-  visibility: hidden;
-  top: 0px;
-  left: 0px;
-  width: 100%;
-  /*z-index: 99;*/
-  height: 20px;
+::-webkit-datetime-edit-year-field {
+  color: purple;
 }
 
-/* previous month */
-.m_btn {
-  position: absolute;
-  height: 100%;
-  background: #0075B0;
-  outline: none;
-  text-align: center;
-  border: 0px;
-  width: 10%;
-  cursor: pointer;
-  font-size: 14px;
-  font-weight: 600;
-  line-height: 20px;
+::-webkit-inner-spin-button {
+  display: none;
 }
 
-.left {
-  left: 0px;
+::-webkit-calendar-picker-indicator {
+  background: orange;
 }
 
-.right {
-  right: 0px;
-}
-
-/* spans */
-.m_span {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  width: 80%;
-  text-align: center;
-  cursor: pointer;
-  font-size: 14px;
-  font-weight: 600;
-  -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
-  -webkit-transition: all 0.3s ease-in;
-  transition: all 0.3s ease-in;
-}
-
-/* Calenders */
-.calender_div {
-  width: 100%;
-  height: 0px;
-  visibility: hidden;
-  opacity: 0;
-  position: absolute;
-  top: 20px;
-  -webkit-transition: all 0.3s ease-in;
-  transition: all 0.3s ease-in;
-  background: #0075B0;
-}
-
-/* after opening calender */
-.OpenCalender {
-  height: auto;
-  opacity: 1;
-  visibility: visible;
-  z-index: 99;
-}
-
-/* all date divs */
-.date_blocks,
-.date_blocks_empty,
-.date_blocks_days,
-.date_blocks_disabled,
-.date_blocks_holiday,
-.date_blocks_weekends {
-  color: white;
-  width: 14.28%;
-  height: 30px;
-  float: left;
-  position: relative;
-  background: #0075B0;
-  text-align: center;
-  line-height: 30px;
-  cursor: pointer;
-  z-index: 99;
-  font-size: 18px;
-}
-
-/*.date_blocks_disabled{
-      color: #555;
-      cursor: not-allowed;
-  }*/
-.date_blocks_days {
-  color: #eeeeee;
-  text-align: center;
-  font-size: 16px;
-}
-
-/*
-  .date_blocks_holiday{
-      background-image: url('../images/circle.png');
-      background-size: 100% 100%;
-      color: #CCC;
-  }*/
-.date_blocks:before,
-.Optional:before {
-  content: '';
-  height: 100%;
-  width: 0px;
-  position: absolute;
-  left: 0px;
-  -webkit-box-shadow: inset 1px 1px 5px 0px black;
-          box-shadow: inset 1px 1px 5px 0px black;
-  -webkit-transition: all .1s linear;
-  transition: all .1s linear;
-  cursor: pointer;
-  -webkit-user-select: none;
-  z-index: -1;
-  color: #0075B0;
-}
-
-.date_blocks:hover:before,
-.Optional:hover:before {
-  width: 100%;
-}
-
-.date_blocks:nth-of-type(7n+0),
-.date_blocks:nth-of-type(7n+1),
-.date_blocks_days:nth-of-type(7n+0),
-.date_blocks_days:nth-of-type(7n+1),
-.date_blocks_empty:nth-of-type(7n+0),
-.date_blocks_empty:nth-of-type(7n+1),
-.date_blocks_disabled:nth-of-type(7n+0),
-.date_blocks_disabled:nth-of-type(7n+1),
-.date_blocks_weekends {
-  background: #0075B0;
-  color: #e79c82;
+::-webkit-input-placeholder {
+  color: #0051AD;
+  font-size: 20px;
+  padding-left: 10px;
 }
 
 footer {
