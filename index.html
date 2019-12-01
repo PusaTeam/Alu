@@ -8,7 +8,8 @@
   <title>Bilet.ALU</title>
   <link rel="shortcut icon" href="https://img.icons8.com/color/48/000000/around-the-globe.png">
   <link rel="stylesheet" href="sass/style.css">
-  <script src="https://kit.fontawesome.com/f44f56e0c8.js" crossorigin="anonymous"></script>
+
+
 
 </head>
 
@@ -22,17 +23,17 @@
       </div>
       <div class="header__right">
         <i class="asd" src="img/header/logo.svg"></i>
-        <a href="#" id="helpBTN" class="header__right__help">Помощь <i class="fas fa-chevron-down"></i></a>
+        <a id="helpBTN" class="header__right__help">Помощь <i class="fas fa-chevron-down"></i></a>
         <div class="help__window hidden" id="dropMenu">
           <div class="help__window__top">
             <img class="help__window__24" src="img/header/24.svg" alt="">
             <h2 class="help__window__title">Помощь в любое время без выходных</h2>
           </div>
-          <a href="#" class="help__window__link">Задать вопрос в поддержку</a>
+          <a class="help__window__link">Задать вопрос в поддержку</a>
           <p class="help__window__phones">
-            Позвонить: <span class="phones">+7 (727) 334 55 55<br/>
-            +7 (701) 333 32 33<br/>
-            +7 (777) 555 44 55</span>
+            Позвонить: <span class="phones">+7 (727) 334 55 55<br />
+              +7 (701) 333 32 33<br />
+              +7 (777) 555 44 55</span>
           </p>
         </div>
         <a href="#" class="header__right__acc">Вход/Регистрация <i class="fas fa-user"></i></a>
@@ -72,14 +73,25 @@
               <input name="from" type="text" id="from" placeholder="Откуда" required autofocus maxlength="15">
               <a id="switch"><i class="fas fa-exchange-alt"></i></a>
             </form>
-            <ul id="from__ul">
-              <li>asdasd</li>
-              <li>asdasd</li>
+            <ul id="from__ul" class="hidden">
             </ul>
           </div>
+          <div id="toResults">
+            <form action="to">
+              <input name="to" type="text" id="to" placeholder="Куда" required autofocus maxlength="15">
+            </form>
+            <ul id="to__ul" class="hidden">
+            </ul>
+          </div>
+          <div class='calender' id='calender' style='width:300px'></div>
         </div>
-
       </div>
+
+
+
+
+
+
     </div>
   </main>
   <div class="container-cloud">
@@ -117,8 +129,7 @@
   </div>
 
   <figure>
-    <svg xmlns="http://www.w3.org/2000/svg" id="plane" class="plane" viewBox="0 0 104 47" x="0" y="0" width="104"
-      height="47" background-color="#ffffff00">
+    <svg id="plane" class="plane" viewBox="0 0 104 47" x="0" y="0" width="104" height="47" background-color="#ffffff00">
       <g id="avion">
         <path
           d="M20 36C25 38 69 43 80 40 92 38 106 33 104 21 103 13 95 13 90 9 85 5 79 2 76 1 70-1 65 0 60 2 57 3 25 14 23 13 21 12 12 2 9 3 5 4 1 5 1 6 2 7 15 34 20 36Z"
@@ -138,8 +149,8 @@
           fill="#afe2ff" />
       </g>
     </svg>
-    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0"
-      viewBox="0 0 136 166" xml:space="preserve">
+    <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" viewBox="0 0 136 166"
+      xml:space="preserve">
       <ellipse id="shad" cx="68" cy="150" rx="40" ry="10" />
       <g clip-path="url(#outer)">
         <use id="sea" xlink:href="#circ" />
@@ -168,9 +179,8 @@
       </defs>
     </svg>
   </figure>
-
+  <script src="https://kit.fontawesome.com/f44f56e0c8.js" crossorigin="anonymous"></script>
   <script src="javascript/index.js"></script>
-
   <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.5/fuse.min.js"></script>
 
 
