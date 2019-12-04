@@ -22,12 +22,97 @@
    margin: 0 -90px;  
 }
 
-a>i{
-    @include red ();
+.header__left>a , .header__right>a{
+    @include blue()
 }
-a:hover{
-    @include red ();
+
+.header__left__tickets:hover i{
+    animation: flight 3s ease infinite;
+
 }
-a:hover>i{   
-        @include blue (); 
+
+@-webkit-keyframes flight {
+    0% {
+      opacity: 1;
+      -webkit-transform: translateX(0);
+    }
+    100% {
+      opacity: 1;
+      -webkit-transform: translateX(-120%);
+    }
+  }
+  @keyframes flight {
+    0% {
+      opacity: 1;
+      -webkit-transform: translateX(0);
+              transform: translateX(0);
+    }
+    25% {
+        opacity: 1;
+        -webkit-transform: rotate(-50deg);
+                transform: rotate(-50deg);
+      }
+    100% {
+      opacity: 1;
+     
+            transform: translate(500%, -500%);
+
+    }
+  } 
+  
+ 
+  .help__window{
+    text-align: center;
+    font-size: 20px;
+    position: absolute;
+    margin-top: 310px;
+    margin-left: -270px;
+    width: 400px;
+    height: 550px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+  }
+
+  
+  .help__window__top{
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+  }
+
+  .help__window__title{
+      margin: 20px 5px ;
+      width: 85%;
+      display: block;
+     
+  }
+  .help__window__24{
+      color: blue;
+      width: 50px;
+      padding-top: 30px;
+      padding-left: 20px;
+   }
+
+   .help__window__link{
+       background-color: $main-blue;
+       color: white;
+       padding: 10px 15px;
+        border-radius: 15px;
+       height: 54px;
+       box-shadow: 0 8px 6px 1px rgba(0, 0, 0, 0.24);
+       &:hover{
+        box-shadow: 0 8px 6px 1px inset rgba(0, 0, 0, 0.24);
+       }
+   }
+
+.help__window__phones{
+    font-size: 22px;
+    display: flex;
+    margin: 30px 40px;
+    justify-content: space-between;
+   }
+
+.hidden{
+    display: none;
 }
+
