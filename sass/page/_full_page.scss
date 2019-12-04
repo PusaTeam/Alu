@@ -1,15 +1,20 @@
 body{
+     margin: auto;
     width: 100vw;
     @include blue();
     background-color: rgb(198, 231, 241);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    height: 100vh;
+    height: fit-content;
 
   }
 
 a{
     text-decoration: none;
     @include blue()
+}
+
+ul{
+  list-style: none;
 }
 
 
