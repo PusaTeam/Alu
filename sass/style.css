@@ -812,7 +812,6 @@ a {
 .main {
   color: #0051AD;
   max-width: 1920px;
-  margin: 0 100px;
   margin: auto;
   height: -webkit-fit-content;
   height: -moz-fit-content;
