@@ -643,6 +643,7 @@ figure #land {
 }
 
 body {
+  margin: auto;
   width: 100vw;
   color: #0051AD;
   background-color: #c6e7f1;
@@ -832,6 +833,7 @@ a {
 }
 
 .main__searchForm__title {
+  margin: auto;
   z-index: 50;
   font-size: 42px;
   font-weight: 700;
