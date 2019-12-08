@@ -1,3 +1,4 @@
+
 document.body.onload = function () {
   let from = document.getElementById("from")
   , fromUl = document.getElementById("from__ul");
@@ -89,7 +90,7 @@ document.body.onload = function () {
         `<span>` +
         '<i class="fas fa-plane">'+ " " +(fromPlace[i].name_rus ?
           fromPlace[i].name_rus :
-          fromPlace[i].name_eng)  +'</i>' +
+          fromPlace[i].name_eng)  +'</i>' + 
           
            
           fromPlace[i].iata_code +`</span>`+
@@ -112,11 +113,18 @@ document.body.onload = function () {
     if (state.debouncer) clearTimeout(state.debouncer);
     state.debouncer = setTimeout(autocompleteFrom, 300);
   };
-  from.onblur = function(){
+
+  from.onfocus = function(){
+    from.select()   
+  }
+
+  fromUl.onclick = function(e){
+    let target = e.target.closest("li");
+    let textTarget = target.firstChild.firstChild.textContent;
+    let textCity = fromUl.firstChild.textContent 
+    from.value = fromUl.firstChild.textContent + "   (" + target.firstChild.firstChild.textContent +")";
     fromUl.classList.add("hidden");
   }
-  
-
 
 
 
@@ -173,13 +181,22 @@ document.body.onload = function () {
   }
 
 
+  toUl.onclick = function(e){
+    let target = e.target.closest("li");
+    let textTarget = target.firstChild.firstChild.textContent;
+    let textCity = toUl.firstChild.textContent 
+    to.value = toUl.firstChild.textContent + " (" + target.firstChild.firstChild.textContent +")";
+    toUl.classList.add("hidden");
+  }
+
+  to.onfocus = function(){
+    to.select()   
+  }
   to.oninput = function () {
     if (state.debouncer) clearTimeout(state.debouncer);
     state.debouncer = setTimeout(autocompleteTo, 300);
   };
-  to.onblur = function(){
-    fromUl.classList.add("hidden");
-  }
+  
 
 
   let helpooBTN = document.getElementById("helpBTN"),
@@ -188,6 +205,8 @@ document.body.onload = function () {
   helpooBTN.onclick = function () {
     dropMenu.classList.toggle("hidden")
   };
+
+
 
 
 }
