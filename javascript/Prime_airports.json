@@ -1,0 +1,2367 @@
+{"list" : [{
+  "iata_code": "SYD",
+  "name_eng": "Kingsford Smith",
+  "city_rus": "Сидней",
+  "city_eng": "Sydney",
+  "country_rus": "Австралия",
+  "country_eng": "Australia"
+}, {
+  "iata_code": "MLB",
+  "name_eng": "Melbourne International Airport",
+  "city_rus": "Мельбурн",
+  "city_eng": "Melbourne",
+  "country_rus": "США",
+  "country_eng": "United States"
+}, {
+  "iata_code": "BNE",
+  "name_eng": "Brisbane International",
+  "city_rus": "Брисбан",
+  "city_eng": "Brisbane",
+  "country_rus": "Австралия",
+  "country_eng": "Australia"
+}, {
+  "iata_code": "PER",
+  "name_eng": "Perth International",
+  "city_rus": "Перт",
+  "city_eng": "Perth",
+  "country_rus": "Австралия",
+  "country_eng": "Australia"
+}, {
+  "iata_code": "ADL",
+  "name_eng": "Adelaide International Airport",
+  "city_rus": "Аделаида",
+  "city_eng": "Adelaide",
+  "country_rus": "Австралия",
+  "country_eng": "Australia"
+}, {
+  "iata_code": "OOL",
+  "name_eng": "Coolangatta/Gold Coast",
+  "city_eng": "Coolangatta/Gold Coast",
+  "country_rus": "Австралия",
+  "country_eng": "Australia"
+}, {
+  "iata_code": "CNS",
+  "name_rus": "Кернс",
+  "name_eng": "Cairns",
+  "city_rus": "Кернс",
+  "city_eng": "Cairns",
+  "country_rus": "Австралия",
+  "country_eng": "Australia"
+}, {
+  "iata_code": "CBR",
+  "name_rus": "Канберра",
+  "name_eng": "Canberra",
+  "city_rus": "Канберра",
+  "city_eng": "Canberra",
+  "country_rus": "Австралия",
+  "country_eng": "Australia"
+}, {
+  "iata_code": "HBA",
+  "name_rus": "Хобарт",
+  "name_eng": "Hobart",
+  "city_rus": "Хобарт",
+  "city_eng": "Hobart",
+  "country_rus": "Австралия",
+  "country_eng": "Australia"
+}, {
+  "iata_code": "DRW",
+  "name_rus": "Дарвин",
+  "name_eng": "Darwin",
+  "city_rus": "Дарвин",
+  "city_eng": "Darwin",
+  "country_rus": "Австралия",
+  "country_eng": "Australia"
+}, {
+  "iata_code": "VIE",
+  "name_eng": "Schwechat International",
+  "city_rus": "Вена",
+  "city_eng": "Vienna",
+  "country_rus": "Австрия",
+  "country_eng": "Austria"
+}, {
+  "iata_code": "SZG",
+  "name_eng": "W. A. Mozart",
+  "city_rus": "Зальцбург",
+  "city_eng": "Salzburg",
+  "country_rus": "Австрия",
+  "country_eng": "Austria"
+}, {
+  "iata_code": "INN",
+  "name_eng": "Innsbruck-kranebitten",
+  "city_rus": "Инсбрук",
+  "city_eng": "Innsbruck",
+  "country_rus": "Австрия",
+  "country_eng": "Austria"
+}, {
+  "iata_code": "GYD",
+  "name_rus": "Гейдар Алиев",
+  "name_eng": "Heydar Aliyev",
+  "city_rus": "Баку",
+  "city_eng": "Baku",
+  "country_rus": "Азербайджан",
+  "country_eng": "Azerbaijan"
+}, {
+  "iata_code": "KVD",
+  "name_rus": "Гянджа",
+  "name_eng": "Gyandzha",
+  "city_rus": "Гянджа",
+  "city_eng": "Gyandzha",
+  "country_rus": "Азербайджан",
+  "country_eng": "Azerbaijan"
+}, {
+  "iata_code": "TIA",
+  "name_eng": "Rinas Mother Teresa",
+  "city_eng": "Tirana",
+  "country_rus": "Албания",
+  "country_eng": "Albania"
+}, {
+  "iata_code": "LWN",
+  "name_eng": "Gyoumri",
+  "city_eng": "Gyoumri",
+  "country_rus": "Армения",
+  "country_eng": "Armenia"
+}, {
+  "iata_code": "EVN",
+  "name_eng": "Zvartnots",
+  "city_rus": "Ереван",
+  "city_eng": "Yerevan",
+  "country_rus": "Армения",
+  "country_eng": "Armenia"
+}, {
+  "iata_code": "EZE",
+  "name_eng": "Ezeiza Ministro Pistarini",
+  "city_rus": "Буэнос-Айрес",
+  "city_eng": "Buenos Aires",
+  "country_rus": "Аргентина",
+  "country_eng": "Argentina"
+}, {
+  "iata_code": "AEP",
+  "name_eng": "Arpt. Jorge Newbery",
+  "city_rus": "Буэнос-Айрес",
+  "city_eng": "Buenos Aires",
+  "country_rus": "Аргентина",
+  "country_eng": "Argentina"
+}, {
+  "iata_code": "BAI",
+  "name_rus": "Буэнос-Айрес",
+  "name_eng": "Buenos Aires",
+  "city_rus": "Буэнос-Айрес",
+  "city_eng": "Buenos Aires",
+  "country_rus": "Коста-Рика",
+  "country_eng": "Costa Rica"
+}, {
+  "iata_code": "EZE",
+  "name_eng": "Ezeiza Ministro Pistarini",
+  "city_rus": "Буэнос-Айрес",
+  "city_eng": "Buenos Aires",
+  "country_rus": "Аргентина",
+  "country_eng": "Argentina"
+}, {
+  "iata_code": "KBL",
+  "name_eng": "Khwaja Rawash",
+  "city_eng": "Kabul",
+  "country_rus": "Афганистан",
+  "country_eng": "Afghanistan"
+}, {
+  "iata_code": "JAA",
+  "name_rus": "Джелалабад",
+  "name_eng": "Jalalabad",
+  "city_rus": "Джелалабад",
+  "city_eng": "Jalalabad",
+  "country_rus": "Афганистан",
+  "country_eng": "Afghanistan"
+}, {
+  "iata_code": "DAC",
+  "name_eng": "Zia International",
+  "city_eng": "Dhaka",
+  "country_rus": "Бангладеш",
+  "country_eng": "Bangladesh"
+}, {
+  "iata_code": "ZYL",
+  "name_eng": "Osmani International",
+  "city_eng": "Sylhet",
+  "country_rus": "Бангладеш",
+  "country_eng": "Bangladesh"
+}, {
+  "iata_code": "BGI",
+  "name_eng": "Grantley Adams International",
+  "city_eng": "Bridgetown",
+  "country_rus": "Барбадос",
+  "country_eng": "Barbados"
+}, {
+  "iata_code": "BAH",
+  "name_eng": "Bahrain International",
+  "city_eng": "Manama",
+  "country_rus": "Бахрейн",
+  "country_eng": "Bahrain"
+}, {
+  "iata_code": "MSQ",
+  "name_rus": "Национальный аэропорт Минск",
+  "name_eng": "Minsk International 2",
+  "city_rus": "Минск",
+  "city_eng": "Minsk",
+  "country_rus": "Беларусь",
+  "country_eng": "Belarus"
+}, {
+  "iata_code": "BQT",
+  "name_rus": "Брест",
+  "name_eng": "Brest",
+  "city_rus": "Брест",
+  "city_eng": "Brest",
+  "country_rus": "Беларусь",
+  "country_eng": "Belarus"
+}, {
+  "iata_code": "GME",
+  "name_rus": "Гомель",
+  "name_eng": "Gomel",
+  "city_rus": "Гомель",
+  "city_eng": "Gomel",
+  "country_rus": "Беларусь",
+  "country_eng": "Belarus"
+}, {
+  "iata_code": "GNA",
+  "name_rus": "Гродно",
+  "name_eng": "Grodna",
+  "city_rus": "Гродно",
+  "city_eng": "Grodna",
+  "country_rus": "Беларусь",
+  "country_eng": "Belarus"
+}, {
+  "iata_code": "MVQ",
+  "name_rus": "Могилев",
+  "name_eng": "Mogilev",
+  "city_rus": "Могилев",
+  "city_eng": "Mogilev",
+  "country_rus": "Беларусь",
+  "country_eng": "Belarus"
+}, {
+  "iata_code": "BZE",
+  "name_eng": "Philip S.W.Goldson Int",
+  "city_eng": "Belize City",
+  "country_rus": "Белиз",
+  "country_eng": "Belize"
+}, {
+  "iata_code": "ANR",
+  "name_eng": "Deurne",
+  "city_rus": "Антверпен",
+  "city_eng": "Antwerp",
+  "country_rus": "Бельгия",
+  "country_eng": "Belgium"
+}, {
+  "iata_code": "BRU",
+  "name_rus": "Аэропорт Брюсселя",
+  "name_eng": "Brussels Airport",
+  "city_rus": "Брюссель",
+  "city_eng": "Brussels",
+  "country_rus": "Бельгия",
+  "country_eng": "Belgium"
+}, {
+  "iata_code": "BOJ",
+  "name_eng": "Bourgas",
+  "city_rus": "Бургас",
+  "city_eng": "Bourgas",
+  "country_rus": "Болгария",
+  "country_eng": "Bulgaria"
+}, {
+  "iata_code": "VAR",
+  "name_rus": "Варна",
+  "name_eng": "Varna",
+  "city_rus": "Варна",
+  "city_eng": "Varna",
+  "country_rus": "Болгария",
+  "country_eng": "Bulgaria"
+}, {
+  "iata_code": "SOF",
+  "name_rus": "София",
+  "name_eng": "Sofia",
+  "city_rus": "София",
+  "city_eng": "Sofia",
+  "country_rus": "Болгария",
+  "country_eng": "Bulgaria"
+}, {
+  "iata_code": "PUR",
+  "name_rus": "Пуэрто Рико",
+  "name_eng": "Puerto Rico",
+  "city_rus": "Пуэрто Рико",
+  "city_eng": "Puerto Rico",
+  "country_rus": "Боливия",
+  "country_eng": "Bolivia"
+}, {
+  "iata_code": "TDD",
+  "name_rus": "Тринидад",
+  "name_eng": "Trinidad",
+  "city_rus": "Тринидад",
+  "city_eng": "Trinidad",
+  "country_rus": "Боливия",
+  "country_eng": "Bolivia"
+}, {
+  "iata_code": "SJJ",
+  "name_eng": "Sarajevo",
+  "city_rus": "Сараево",
+  "city_eng": "Sarajevo",
+  "country_rus": "Босния и Герцеговина",
+  "country_eng": "Bosnia And Herzegovina"
+}, {
+  "iata_code": "FRW",
+  "name_rus": "Франсистаун",
+  "name_eng": "Francistown",
+  "city_rus": "Франсистаун",
+  "city_eng": "Francistown",
+  "country_rus": "Ботсвана",
+  "country_eng": "Botswana"
+}, {
+  "iata_code": "BBK",
+  "name_rus": "Касане",
+  "name_eng": "Kasane",
+  "city_rus": "Касане",
+  "city_eng": "Kasane",
+  "country_rus": "Ботсвана",
+  "country_eng": "Botswana"
+}, {
+  "iata_code": "MUB",
+  "name_rus": "Мон",
+  "name_eng": "Maun",
+  "city_rus": "Мон",
+  "city_eng": "Maun",
+  "country_rus": "Ботсвана",
+  "country_eng": "Botswana"
+}, {
+  "iata_code": "GBE",
+  "name_eng": "Sir Seretse Khama International",
+  "city_rus": "Габороне",
+  "city_eng": "Gaborone",
+  "country_rus": "Ботсвана",
+  "country_eng": "Botswana"
+}, {
+  "iata_code": "GRU",
+  "name_eng": "Guarulhos Intl",
+  "city_rus": "Сао Паоло",
+  "city_eng": "Sao Paulo",
+  "country_rus": "Бразилия",
+  "country_eng": "Brazil"
+}, {
+  "iata_code": "CGH",
+  "name_eng": "Congonhas",
+  "city_rus": "Сао Паоло",
+  "city_eng": "Sao Paulo",
+  "country_rus": "Бразилия",
+  "country_eng": "Brazil"
+}, {
+  "iata_code": "GIG",
+  "name_eng": "Galeгo–antonio Carlos Jobim International Airport",
+  "city_eng": "Rio De Janeiro",
+  "country_rus": "Бразилия",
+  "country_eng": "Brazil"
+}, {
+  "iata_code": "MEA",
+  "name_eng": "Macae",
+  "city_eng": "Macae",
+  "country_rus": "Бразилия",
+  "country_eng": "Brazil"
+}, {
+  "iata_code": "BWN",
+  "name_eng": "Bandar Seri Begwan International Airport",
+  "city_rus": "Бандар Сери Бегаван",
+  "city_eng": "Bandar Seri Begawan",
+  "country_rus": "Бруней-Даруссалам",
+  "country_eng": "Brunei Darussalam"
+}, {
+  "iata_code": "LHR",
+  "name_rus": "Хитроу",
+  "name_eng": "London Heathrow",
+  "city_rus": "Лондон",
+  "city_eng": "London",
+  "country_rus": "Великобритания",
+  "country_eng": "United Kingdom"
+}, {
+  "iata_code": "LGW",
+  "name_eng": "London Gatwick",
+  "city_rus": "Лондон",
+  "city_eng": "London",
+  "country_rus": "Великобритания",
+  "country_eng": "United Kingdom"
+}, {
+  "iata_code": "LBA",
+  "name_rus": "Лидс",
+  "name_eng": "Leeds/bradford",
+  "city_eng": "Leeds",
+  "country_rus": "Великобритания",
+  "country_eng": "United Kingdom"
+}, {
+  "iata_code": "BHX",
+  "name_eng": "Birmingham International Airport",
+  "city_eng": "Birmingham",
+  "country_rus": "Великобритания",
+  "country_eng": "United Kingdom"
+}, {
+  "iata_code": "LPL",
+  "name_eng": "Liverpool John Lennon",
+  "city_rus": "Ливерпуль",
+  "city_eng": "Liverpool",
+  "country_rus": "Великобритания",
+  "country_eng": "United Kingdom"
+}, {
+  "iata_code": "BUD",
+  "name_eng": "Ferihegy",
+  "city_rus": "Будапешт",
+  "city_eng": "Budapest",
+  "country_rus": "Венгрия",
+  "country_eng": "Hungary"
+}, {
+  "iata_code": "CCS",
+  "name_eng": "Simon Bolivar International Airport",
+  "city_rus": "Каракас",
+  "city_eng": "Caracas",
+  "country_rus": "Венесуэла",
+  "country_eng": "Venezuela"
+}, {
+  "iata_code": "SGN",
+  "name_eng": "Tan Son Nhat International",
+  "city_rus": "Хо Чи Мин Сити",
+  "city_eng": "Ho Chi Minh City",
+  "country_rus": "Вьетнам",
+  "country_eng": "Vietnam"
+}, {
+  "iata_code": "HAN",
+  "name_eng": "Noibai International",
+  "city_rus": "Ханой",
+  "city_eng": "Hanoi",
+  "country_rus": "Вьетнам",
+  "country_eng": "Vietnam"
+}, {
+  "iata_code": "FRA",
+  "name_eng": "Frankfurt International Airport (rhein-main)",
+  "city_rus": "Франкфурт-на-Майне",
+  "city_eng": "Frankfurt",
+  "country_rus": "Германия",
+  "country_eng": "Germany"
+}, {
+  "iata_code": "MUC",
+  "name_eng": "Franz Josef Strauss",
+  "city_rus": "Мюнхен",
+  "city_eng": "Munich",
+  "country_rus": "Германия",
+  "country_eng": "Germany"
+}, {
+  "iata_code": "DUS",
+  "name_eng": "Dьsseldorf International Airport (rhein-ruhr)",
+  "city_rus": "Дюссельдорф",
+  "city_eng": "Dusseldorf",
+  "country_rus": "Германия",
+  "country_eng": "Germany"
+}, {
+  "iata_code": "TXL",
+  "name_eng": "Berlin-tegel / Otto Lilienthal",
+  "city_rus": "Берлин",
+  "city_eng": "Berlin",
+  "country_rus": "Германия",
+  "country_eng": "Germany"
+}, {
+  "iata_code": "HAM",
+  "name_rus": "Аэропорт Гамбурга",
+  "name_eng": "Hamburg Airport",
+  "city_rus": "Гамбург",
+  "city_eng": "Hamburg",
+  "country_rus": "Германия",
+  "country_eng": "Germany"
+}, {
+  "iata_code": "STR",
+  "name_eng": "Echterdingen",
+  "city_rus": "Штуттгард",
+  "city_eng": "Stuttgart",
+  "country_rus": "Германия",
+  "country_eng": "Germany"
+}, {
+  "iata_code": "CGN",
+  "name_eng": "Cologne/bonn",
+  "city_rus": "Кельн",
+  "city_eng": "Cologne",
+  "country_rus": "Германия",
+  "country_eng": "Germany"
+}, {
+  "iata_code": "SXF",
+  "name_eng": "Schoenefeld",
+  "city_rus": "Берлин",
+  "city_eng": "Berlin",
+  "country_rus": "Германия",
+  "country_eng": "Germany"
+}, {
+  "iata_code": "HAJ",
+  "name_eng": "Hanover Arpt",
+  "city_rus": "Ганновер",
+  "city_eng": "Hanover",
+  "country_rus": "Германия",
+  "country_eng": "Germany"
+}, {
+  "iata_code": "DRS",
+  "name_eng": "Dresden Arpt",
+  "city_rus": "Дрезден",
+  "city_eng": "Dresden",
+  "country_rus": "Германия",
+  "country_eng": "Germany"
+}, {
+  "iata_code": "ATH",
+  "name_eng": "Eleftherios Venizelos",
+  "city_rus": "Афины",
+  "city_eng": "Athens",
+  "country_rus": "Греция",
+  "country_eng": "Greece"
+}, {
+  "iata_code": "HER",
+  "name_eng": "Nikos Kazantzakis Airport",
+  "city_eng": "Heraklion",
+  "country_rus": "Греция",
+  "country_eng": "Greece"
+}, {
+  "iata_code": "RHO",
+  "name_eng": "Diagoras",
+  "city_rus": "Родос",
+  "city_eng": "Rhodes",
+  "country_rus": "Греция",
+  "country_eng": "Greece"
+}, {
+  "iata_code": "SKG",
+  "name_eng": "Macedonia International",
+  "city_rus": "Салоники",
+  "city_eng": "Thessaloniki",
+  "country_rus": "Греция",
+  "country_eng": "Greece"
+}, {
+  "iata_code": "TBS",
+  "name_eng": "Lochini (novo Alexeyevka)",
+  "city_rus": "Тбилиси",
+  "city_eng": "Tbilisi",
+  "country_rus": "Грузия",
+  "country_eng": "Georgia"
+}, {
+  "iata_code": "BUS",
+  "name_rus": "Батуми",
+  "name_eng": "Batumi",
+  "city_rus": "Батуми",
+  "city_eng": "Batumi",
+  "country_rus": "Грузия",
+  "country_eng": "Georgia"
+}, {
+  "iata_code": "CPH",
+  "name_eng": "Kastrup",
+  "city_rus": "Копенгаген",
+  "city_eng": "Copenhagen",
+  "country_rus": "Дания",
+  "country_eng": "Denmark"
+}, {
+  "iata_code": "PUJ",
+  "name_eng": "Punta Cana International",
+  "city_eng": "Higuey",
+  "country_rus": "Доминиканская Республика",
+  "country_eng": "Dominican Republic"
+}, {
+  "iata_code": "HEX",
+  "name_eng": "Santo Domingo Herrera",
+  "city_rus": "Санто-Доминго",
+  "city_eng": "Santo Domingo",
+  "country_rus": "Доминиканская Республика",
+  "country_eng": "Dominican Republic"
+}, {
+  "iata_code": "CAI",
+  "name_eng": "Cairo International",
+  "city_rus": "Каир",
+  "city_eng": "Cairo",
+  "country_rus": "Египет",
+  "country_eng": "Egypt"
+}, {
+  "iata_code": "HRG",
+  "name_rus": "Хургада",
+  "name_eng": "Hurghada",
+  "city_rus": "Хургада",
+  "city_eng": "Hurghada",
+  "country_rus": "Египет",
+  "country_eng": "Egypt"
+}, {
+  "iata_code": "SSH",
+  "name_eng": "Ophira International",
+  "city_rus": "Шарм Эль Шейх",
+  "city_eng": "Sharm El Sheikh",
+  "country_rus": "Египет",
+  "country_eng": "Egypt"
+}, {
+  "iata_code": "TLV",
+  "name_eng": "Ben Gurion Intl",
+  "city_eng": "Tel Aviv Yafo",
+  "country_rus": "Израиль",
+  "country_eng": "Israel"
+}, {
+  "iata_code": "ETH",
+  "name_rus": "Эйлат",
+  "name_eng": "Eilat",
+  "city_rus": "Эйлат",
+  "city_eng": "Eilat",
+  "country_rus": "Израиль",
+  "country_eng": "Israel"
+}, {
+  "iata_code": "DEL",
+  "name_eng": "Indira Gandhi Intl",
+  "city_rus": "Нью Дели",
+  "city_eng": "New Delhi",
+  "country_rus": "Индия",
+  "country_eng": "India"
+}, {
+  "iata_code": "BOM",
+  "name_eng": "Chhatrapati Shivaji International",
+  "city_eng": "Mumbai",
+  "country_rus": "Индия",
+  "country_eng": "India"
+}, {
+  "iata_code": "BLR",
+  "name_eng": "Bangalore International Airport",
+  "city_rus": "Бангалор",
+  "city_eng": "Bangalore",
+  "country_rus": "Индия",
+  "country_eng": "India"
+}, {
+  "iata_code": "DPS",
+  "name_eng": "Ngurah Rai International",
+  "city_eng": "Denpasar, Bali",
+  "country_rus": "Индонезия",
+  "country_eng": "Indonesia"
+}, {
+  "iata_code": "AQJ",
+  "name_eng": "King Hussein Intl",
+  "city_rus": "Акаба",
+  "city_eng": "Aqaba",
+  "country_rus": "Иордания",
+  "country_eng": "Jordan"
+}, {
+  "iata_code": "ADJ",
+  "name_eng": "Marka International Airport",
+  "city_rus": "Амман",
+  "city_eng": "Amman",
+  "country_rus": "Иордания",
+  "country_eng": "Jordan"
+}, {
+  "iata_code": "BGW",
+  "name_eng": "Al Muthana",
+  "city_rus": "Багдад",
+  "city_eng": "Baghdad",
+  "country_rus": "Ирак",
+  "country_eng": "Iraq"
+}, {
+  "iata_code": "THR",
+  "name_eng": "Mehrabad/ghaleh Morghi",
+  "city_rus": "Техран",
+  "city_eng": "Tehran",
+  "country_rus": "Иран",
+  "country_eng": "Iran"
+}, {
+  "iata_code": "DUB",
+  "name_rus": "Дублин",
+  "name_eng": "Dublin",
+  "city_rus": "Дублин",
+  "city_eng": "Dublin",
+  "country_rus": "Ирландия",
+  "country_eng": "Ireland"
+}, {
+  "iata_code": "RKV",
+  "name_rus": "Кефлавик",
+  "name_eng": "Keflavik",
+  "city_rus": "Рейкьявик",
+  "city_eng": "Reykjavik",
+  "country_rus": "Исландия",
+  "country_eng": "Iceland"
+}, {
+  "iata_code": "MAD",
+  "name_eng": "Barajas",
+  "city_rus": "Мадрид",
+  "city_eng": "Madrid",
+  "country_rus": "Испания",
+  "country_eng": "Spain"
+}, {
+  "iata_code": "BCN",
+  "name_eng": "El Prat De Llobregat",
+  "city_rus": "Барселона",
+  "city_eng": "Barcelona",
+  "country_rus": "Испания",
+  "country_eng": "Spain"
+}, {
+  "iata_code": "ALC",
+  "name_eng": "Alicante El Altet",
+  "city_rus": "Аликанте",
+  "city_eng": "Alicante",
+  "country_rus": "Испания",
+  "country_eng": "Spain"
+}, {
+  "iata_code": "PMI",
+  "name_eng": "Son Sant Joan Airport",
+  "city_eng": "Palma Mallorca",
+  "country_rus": "Испания",
+  "country_eng": "Spain"
+}, {
+  "iata_code": "TFS",
+  "name_eng": "Sur Reina Sofia",
+  "city_rus": "Тенерифе",
+  "city_eng": "Tenerife",
+  "country_rus": "Испания",
+  "country_eng": "Spain"
+}, {
+  "iata_code": "AGP",
+  "name_eng": "Pablo Ruiz Picasso",
+  "city_rus": "Малага",
+  "city_eng": "Malaga",
+  "country_rus": "Испания",
+  "country_eng": "Spain"
+}, {
+  "iata_code": "VCE",
+  "name_eng": "Marco Polo",
+  "city_rus": "Венеция",
+  "city_eng": "Venice",
+  "country_rus": "Италия",
+  "country_eng": "Italy"
+}, {
+  "iata_code": "MXP",
+  "name_eng": "Malpensa",
+  "city_rus": "Милан",
+  "city_eng": "Milan",
+  "country_rus": "Италия",
+  "country_eng": "Italy"
+}, {
+  "iata_code": "FCO",
+  "name_eng": "Leonardo da Vinci International (Fiumicino)",
+  "city_rus": "Рим",
+  "city_eng": "Rome",
+  "country_rus": "Италия",
+  "country_eng": "Italy"
+}, {
+  "iata_code": "TSE",
+  "name_rus": "Nursultan Nazarbayev",
+  "name_eng": "Astana",
+  "city_rus": "Нур-Султан",
+  "city_eng": "Nur-Sultan",
+  "country_rus": "Казахстан",
+  "country_eng": "Kazakhstan"
+}, {
+  "iata_code": "ALA",
+  "name_rus": "Алматы",
+  "name_eng": "Almaty",
+  "city_rus": "Алматы",
+  "city_eng": "Almaty",
+  "country_rus": "Казахстан",
+  "country_eng": "Kazakhstan"
+}, {
+  "iata_code": "KGF",
+  "name_rus": "Карагандинский международный аэропорт",
+  "name_eng": "Karaganda",
+  "city_rus": "Караганда",
+  "city_eng": "Karaganda",
+  "country_rus": "Казахстан",
+  "country_eng": "Kazakhstan"
+}, {
+  "iata_code": "SCO",
+  "name_rus": "Актау",
+  "name_eng": "Aktau",
+  "city_rus": "Актау",
+  "city_eng": "Aktau",
+  "country_rus": "Казахстан",
+  "country_eng": "Kazakhstan"
+}, {
+  "iata_code": "AKX",
+  "name_rus": "Актобе",
+  "name_eng": "Aktobe",
+  "city_rus": "Актобе",
+  "city_eng": "Aktobe",
+  "country_rus": "Казахстан",
+  "country_eng": "Kazakhstan"
+}, {
+  "iata_code": "GUW",
+  "name_rus": "Атырау",
+  "name_eng": "Atyrau International",
+  "city_rus": "Атырау",
+  "city_eng": "Atyrau",
+  "country_rus": "Казахстан",
+  "country_eng": "Kazakhstan"
+}, {
+  "iata_code": "KZO",
+  "name_rus": "Кзыл-Орда",
+  "name_eng": "Kzyl-Orda",
+  "city_rus": "Кзыл-Орда",
+  "city_eng": "Kzyl-Orda",
+  "country_rus": "Казахстан",
+  "country_eng": "Kazakhstan"
+}, {
+  "iata_code": "KOV",
+  "name_rus": "Кокшетау",
+  "name_eng": "Kokshetau",
+  "city_rus": "Кокшетау",
+  "city_eng": "Kokshetau",
+  "country_rus": "Казахстан",
+  "country_eng": "Kazakhstan"
+}, {
+  "iata_code": "PWQ",
+  "name_rus": "Павлодар",
+  "name_eng": "Pavlodar",
+  "city_rus": "Павлодар",
+  "city_eng": "Pavlodar",
+  "country_rus": "Казахстан",
+  "country_eng": "Kazakhstan"
+}, {
+  "iata_code": "PPK",
+  "name_rus": "Петропавловск",
+  "name_eng": "Petropavlovsk",
+  "city_rus": "Петропавловск",
+  "city_eng": "Petropavlovsk",
+  "country_rus": "Казахстан",
+  "country_eng": "Kazakhstan"
+}, {
+  "iata_code": "TDK",
+  "name_rus": "Талды-Курган",
+  "name_eng": "Taldy-Kurgan",
+  "city_rus": "Талды-Курган",
+  "city_eng": "Taldy-Kurgan",
+  "country_rus": "Казахстан",
+  "country_eng": "Kazakhstan"
+}, {
+  "iata_code": "DMB",
+  "name_rus": "Тараз",
+  "name_eng": "Taraz",
+  "city_rus": "Тараз",
+  "city_eng": "Taraz",
+  "country_rus": "Казахстан",
+  "country_eng": "Kazakhstan"
+}, {
+  "iata_code": "URA",
+  "name_rus": "Уральск",
+  "name_eng": "Uralsk",
+  "city_rus": "Уральск",
+  "city_eng": "Uralsk",
+  "country_rus": "Казахстан",
+  "country_eng": "Kazakhstan"
+}, {
+  "iata_code": "CIT",
+  "name_rus": "Шимкент",
+  "name_eng": "Shimkent",
+  "city_rus": "Шимкент",
+  "city_eng": "Shimkent",
+  "country_rus": "Казахстан",
+  "country_eng": "Kazakhstan"
+}, {
+  "iata_code": "UKK",
+  "name_rus": "Усть-Каменогорск",
+  "name_eng": "Ust-kamenogorsk",
+  "city_rus": "Усть-Каменогорск",
+  "city_eng": "Ust-kamenogorsk",
+  "country_rus": "Казахстан",
+  "country_eng": "Kazakhstan"
+}, {
+  "iata_code": "PNH",
+  "name_rus": "Пном Пен",
+  "name_eng": "Phnom Penh International",
+  "city_rus": "Пном Пен",
+  "city_eng": "Phnom Penh",
+  "country_rus": "Камбоджа",
+  "country_eng": "Cambodia"
+}, {
+  "iata_code": "YYZ",
+  "name_rus": "Торонто",
+  "name_eng": "Lester B. Pearson International",
+  "city_rus": "Торонто",
+  "city_eng": "Toronto",
+  "country_rus": "Канада",
+  "country_eng": "Canada"
+}, {
+  "iata_code": "YVR",
+  "name_rus": "Ванкувер",
+  "name_eng": "Vancouver Intl",
+  "city_rus": "Ванкувер",
+  "city_eng": "Vancouver, British Columbia",
+  "country_rus": "Канада",
+  "country_eng": "Canada"
+}, {
+  "iata_code": "YUL",
+  "name_rus": "Монреаль",
+  "name_eng": "Montreal-pierre Elliott Trudeau International Airport",
+  "city_rus": "Монреаль",
+  "city_eng": "Montreal",
+  "country_rus": "Канада",
+  "country_eng": "Canada"
+}, {
+  "iata_code": "YYC",
+  "name_rus": "Калгари",
+  "name_eng": "Calgary International Airport",
+  "city_rus": "Калгари",
+  "city_eng": "Calgary, AB",
+  "country_rus": "Канада",
+  "country_eng": "Canada"
+}, {
+  "iata_code": "DOH",
+  "name_rus": "Доха",
+  "name_eng": "Doha",
+  "city_rus": "Доха",
+  "city_eng": "Doha",
+  "country_rus": "Катар",
+  "country_eng": "Qatar"
+}, {
+  "iata_code": "NBO",
+  "name_eng": "Jomo Kenyatta International",
+  "city_rus": "Найроби",
+  "city_eng": "Nairobi",
+  "country_rus": "Кения",
+  "country_eng": "Kenya"
+}, {
+  "iata_code": "LCA",
+  "name_eng": "Larnaca International Airport",
+  "city_rus": "Ларнака",
+  "city_eng": "Larnaca",
+  "country_rus": "Кипр",
+  "country_eng": "Cyprus"
+}, {
+  "iata_code": "PFO",
+  "name_eng": "International",
+  "city_rus": "Пафос",
+  "city_eng": "Paphos",
+  "country_rus": "Кипр",
+  "country_eng": "Cyprus"
+}, {
+  "iata_code": "FRU",
+  "name_rus": "Манас",
+  "name_eng": "Manas",
+  "city_rus": "Бишкек",
+  "city_eng": "Bishkek",
+  "country_rus": "Кыргызстан",
+  "country_eng": "Kyrgyzstan"
+}, {
+  "iata_code": "OSS",
+  "name_rus": "Ош",
+  "name_eng": "Osh International Airport",
+  "city_rus": "Ош",
+  "city_eng": "Osh",
+  "country_rus": "Кыргызстан",
+  "country_eng": "Kyrgyzstan"
+}, {
+  "iata_code": "PEK",
+  "name_rus": "Пекин",
+  "name_eng": "Beijing Capital Int.",
+  "city_rus": "Пекин",
+  "city_eng": "Beijing",
+  "country_rus": "Китай",
+  "country_eng": "China"
+}, {
+  "iata_code": "CAN",
+  "name_eng": "New Baiyun",
+  "city_rus": "Гуанчжоу",
+  "city_eng": "Guangzhou",
+  "country_rus": "Китай",
+  "country_eng": "China"
+}, {
+  "iata_code": "SZX",
+  "name_rus": "Шэньчжэнь",
+  "name_eng": "Shenzhen",
+  "city_rus": "Шэньчжэнь",
+  "city_eng": "Shenzhen",
+  "country_rus": "Китай",
+  "country_eng": "China"
+}, {
+  "iata_code": "TSN",
+  "name_eng": "Tianjin Binhai International",
+  "city_rus": "Тяньцзинь",
+  "city_eng": "Tianjin",
+  "country_rus": "Китай",
+  "country_eng": "China"
+}, {
+  "iata_code": "XMN",
+  "name_rus": "Хаймень",
+  "name_eng": "Xiamen",
+  "city_rus": "Сямэнь",
+  "city_eng": "Xiamen",
+  "country_rus": "Китай",
+  "country_eng": "China"
+}, {
+  "iata_code": "LXA",
+  "name_rus": "Гонгар",
+  "name_eng": "Gonggar/Lhasa",
+  "city_rus": "Лхаса",
+  "city_eng": "Gonggar",
+  "country_rus": "Китай",
+  "country_eng": "China"
+}, {
+  "iata_code": "NKG",
+  "name_rus": "Нанкин Лукоу",
+  "name_eng": "Lukou International Airport",
+  "city_rus": "Нанкин",
+  "city_eng": "Nanking/nanjing",
+  "country_rus": "Китай",
+  "country_eng": "China"
+}, {
+  "iata_code": "TAO",
+  "name_rus": "Куаньдян",
+  "name_eng": "Qingdao",
+  "city_rus": "Куаньдян",
+  "city_eng": "Qingdao",
+  "country_rus": "Китай",
+  "country_eng": "China"
+}, {
+  "iata_code": "HFE",
+  "name_rus": "Хэфэй Синьцяо",
+  "name_eng": "Shanghai",
+  "city_rus": "Хефей",
+  "city_eng": "Hefei",
+  "country_rus": "Китай",
+  "country_eng": "China"
+}, {
+  "iata_code": "XIY",
+  "name_rus": "Синьян",
+  "name_eng": "Xianyang",
+  "city_rus": "Сиань",
+  "city_eng": "Xi An",
+  "country_rus": "Китай",
+  "country_eng": "China"
+}, {
+  "iata_code": "HGH",
+  "name_rus": "Ханчжоу Сяошань",
+  "name_eng": "Hangzhou",
+  "city_rus": "Ханчжоу",
+  "city_eng": "Hangzhou",
+  "country_rus": "Китай",
+  "country_eng": "China"
+}, {
+  "iata_code": "HKG",
+  "name_eng": "Hong Kong International",
+  "city_rus": "Гонконг",
+  "city_eng": "Hong Kong",
+  "country_rus": "Гонконг",
+  "country_eng": "Hong Kong"
+}, {
+  "iata_code": "FNJ",
+  "name_eng": "Sunan International",
+  "city_rus": "Пхеньян",
+  "city_eng": "Pyongyang",
+  "country_rus": "Северная Корея",
+  "country_eng": "Korea (North)"
+}, {
+  "iata_code": "ICN",
+  "name_eng": "Incheon International",
+  "city_rus": "Сеул",
+  "city_eng": "Seoul",
+  "country_rus": "Южная Корея",
+  "country_eng": "Korea (South)"
+}, {
+  "iata_code": "PUS",
+  "name_rus": "Кимхэ",
+  "name_eng": "Gimhae",
+  "city_rus": "Пусан",
+  "city_eng": "Busan",
+  "country_rus": "Южная Корея",
+  "country_eng": "Korea (South)"
+}, {
+  "iata_code": "SJO",
+  "name_eng": "Juan Santamarнa International",
+  "city_eng": "San Josй",
+  "country_rus": "Коста-Рика",
+  "country_eng": "Costa Rica"
+}, {
+  "iata_code": "HAV",
+  "name_rus": "Хосе Марти",
+  "name_eng": "Jose Marti Intl",
+  "city_rus": "Гавана",
+  "city_eng": "Havana",
+  "country_rus": "Куба",
+  "country_eng": "Cuba"
+}, {
+  "iata_code": "KWI",
+  "name_rus": "Кувейт",
+  "name_eng": "Kuwait International",
+  "city_rus": "Кувейт",
+  "city_eng": "Kuwait City",
+  "country_rus": "Кувейт",
+  "country_eng": "Kuwait"
+}, {
+  "iata_code": "LPQ",
+  "name_rus": "Луанг Прабанг",
+  "name_eng": "Luang Prabang",
+  "city_rus": "Луанг Прабанг",
+  "city_eng": "Luang Prabang",
+  "country_rus": "Лаос",
+  "country_eng": "Laos"
+}, {
+  "iata_code": "LXG",
+  "name_rus": "Луанг-Намтха",
+  "name_eng": "Luang Namtha",
+  "city_rus": "Луанг-Намтха",
+  "city_eng": "Luang Namtha",
+  "country_rus": "Лаос",
+  "country_eng": "Laos"
+}, {
+  "iata_code": "VTE",
+  "name_rus": "Ваттай",
+  "name_eng": "Wattay",
+  "city_rus": "Виентиане",
+  "city_eng": "Vientiane",
+  "country_rus": "Лаос",
+  "country_eng": "Laos"
+}, {
+  "iata_code": "RIX",
+  "name_rus": "Рига",
+  "name_eng": "Riga",
+  "city_rus": "Рига",
+  "city_eng": "Riga",
+  "country_rus": "Латвия",
+  "country_eng": "Latvia"
+}, {
+  "iata_code": "LUX",
+  "name_rus": "Люксембург",
+  "name_eng": "Findel",
+  "city_rus": "Люксембург",
+  "city_eng": "Luxembourg",
+  "country_rus": "Люксембург",
+  "country_eng": "Luxembourg"
+}, {
+  "iata_code": "TNR",
+  "name_rus": "Антананариву",
+  "name_eng": "Antananarivo",
+  "city_rus": "Антананариву",
+  "city_eng": "Antananarivo",
+  "country_rus": "Мадагаскар",
+  "country_eng": "Madagascar"
+}, {
+  "iata_code": "KUL",
+  "name_rus": "Куала-Лумпур",
+  "name_eng": "Kuala Lumpur International Airport (klia)",
+  "city_rus": "Куала-Лумпур",
+  "city_eng": "Kuala Lumpur",
+  "country_rus": "Малайзия",
+  "country_eng": "Malaysia"
+}, {
+  "iata_code": "MLE",
+  "name_rus": "Мале",
+  "name_eng": "Male International",
+  "city_rus": "Мале",
+  "city_eng": "Male",
+  "country_rus": "Мальдивы",
+  "country_eng": "Maldives"
+}, {
+  "iata_code": "MLA",
+  "name_rus": "Мальта",
+  "name_eng": "Malta International",
+  "city_rus": "Мальта",
+  "city_eng": "Gudja",
+  "country_rus": "Мальта",
+  "country_eng": "Malta"
+}, {
+  "iata_code": "CMN",
+  "name_rus": "Марокко",
+  "name_eng": "Mohamed V",
+  "city_rus": "Касабланка",
+  "city_eng": "Casablanca",
+  "country_rus": "Марокко",
+  "country_eng": "Morocco"
+}, {
+  "iata_code": "MEX",
+  "name_rus": "Мехико",
+  "name_eng": "Benito Juarez International",
+  "city_rus": "Мексико Сити",
+  "city_eng": "Mexico City",
+  "country_rus": "Мексика",
+  "country_eng": "Mexico"
+}, {
+  "iata_code": "CUN",
+  "name_rus": "Канкун",
+  "name_eng": "Cancun International",
+  "city_rus": "Канкун",
+  "city_eng": "Cancun",
+  "country_rus": "Мексика",
+  "country_eng": "Mexico"
+}, {
+  "iata_code": "GDL",
+  "name_rus": "Гуадалахара",
+  "name_eng": "Miguel Hidalgo International Airport",
+  "city_rus": "Гуадалахара",
+  "city_eng": "Guadalajara",
+  "country_rus": "Мексика",
+  "country_eng": "Mexico"
+}, {
+  "iata_code": "MTY",
+  "name_rus": "Монтеррей",
+  "name_eng": "Gen Mariano Escobedo",
+  "city_rus": "Монтеррей",
+  "city_eng": "Monterrey",
+  "country_rus": "Мексика",
+  "country_eng": "Mexico"
+}, {
+  "iata_code": "KIV",
+  "name_rus": "Кишинев",
+  "name_eng": "Kishinev",
+  "city_rus": "Кишинев",
+  "city_eng": "Chisinau",
+  "country_rus": "Молдова",
+  "country_eng": "Moldova"
+}, {
+  "iata_code": "ULN",
+  "name_rus": "Улан-Батор",
+  "name_eng": "Chinggis Khaan International",
+  "city_rus": "Улан-Батор",
+  "city_eng": "Ulaanbaatar",
+  "country_rus": "Монголия",
+  "country_eng": "Mongolia"
+}, {
+  "iata_code": "RGN",
+  "name_rus": "Янгон",
+  "name_eng": "Mingaladon",
+  "city_rus": "Яньгунь",
+  "city_eng": "Yangon",
+  "country_rus": "Мьянма",
+  "country_eng": "Myanmar"
+}, {
+  "iata_code": "KTM",
+  "name_rus": "Катманду",
+  "name_eng": "Tribhuvan",
+  "city_rus": "Катманду",
+  "city_eng": "Kathmandu",
+  "country_rus": "Непал",
+  "country_eng": "Nepal"
+}, {
+  "iata_code": "LOS",
+  "name_rus": "Лагос",
+  "name_eng": "Murtala Muhammed",
+  "city_rus": "Лагос",
+  "city_eng": "Lagos",
+  "country_rus": "Нигерия",
+  "country_eng": "Nigeria"
+}, {
+  "iata_code": "AMS",
+  "name_rus": "Амстердам",
+  "name_eng": "Amsterdam-Schiphol",
+  "city_rus": "Амстердам",
+  "city_eng": "Amsterdam",
+  "country_rus": "Нидерланды",
+  "country_eng": "Netherlands"
+}, {
+  "iata_code": "WLG",
+  "name_rus": "Веллингтон",
+  "name_eng": "Wellington International",
+  "city_rus": "Веллингтон",
+  "city_eng": "Wellington",
+  "country_rus": "Новая Зеландия",
+  "country_eng": "New Zealand"
+}, {
+  "iata_code": "AKL",
+  "name_rus": "Окленд",
+  "name_eng": "Auckland International",
+  "city_rus": "Окленд",
+  "city_eng": "Auckland",
+  "country_rus": "Новая Зеландия",
+  "country_eng": "New Zealand"
+}, {
+  "iata_code": "OSL",
+  "name_rus": "Осло",
+  "name_eng": "Oslo Airport, Gardermoen",
+  "city_rus": "Осло",
+  "city_eng": "Oslo",
+  "country_rus": "Норвегия",
+  "country_eng": "Norway"
+}, {
+  "iata_code": "AUH",
+  "name_rus": "Абу-Даби",
+  "name_eng": "Abu Dhabi International",
+  "city_rus": "Абу-Даби",
+  "city_eng": "Abu Dhabi",
+  "country_rus": "ОАЭ",
+  "country_eng": "United Arab Emirates"
+}, {
+  "iata_code": "DXB",
+  "name_rus": "Дубай",
+  "name_eng": "Dubai",
+  "city_rus": "Дубай",
+  "city_eng": "Dubai",
+  "country_rus": "ОАЭ",
+  "country_eng": "United Arab Emirates"
+}, {
+  "iata_code": "WAW",
+  "name_eng": "Frederic Chopin",
+  "city_rus": "Варшава",
+  "city_eng": "Warsaw",
+  "country_rus": "Польша",
+  "country_eng": "Poland"
+}, {
+  "iata_code": "WRO",
+  "name_rus": "Вроцлав",
+  "name_eng": "Copernicus Airport",
+  "city_rus": "Вроцлав",
+  "city_eng": "Wroclaw",
+  "country_rus": "Польша",
+  "country_eng": "Poland"
+}, {
+  "iata_code": "GDN",
+  "name_rus": "Гданьск",
+  "name_eng": "Lech Walesa",
+  "city_rus": "Гданьск",
+  "city_eng": "Gdansk",
+  "country_rus": "Польша",
+  "country_eng": "Poland"
+}, {
+  "iata_code": "KRK",
+  "name_rus": "Краков",
+  "name_eng": "J. Paul Ii Balice Intl",
+  "city_rus": "Краков",
+  "city_eng": "Krakow",
+  "country_rus": "Польша",
+  "country_eng": "Poland"
+}, {
+  "iata_code": "LIS",
+  "name_rus": "Лиссабон",
+  "name_eng": "Portela",
+  "city_rus": "Лиссабон",
+  "city_eng": "Lisbon",
+  "country_rus": "Португалия",
+  "country_eng": "Portugal"
+}, {
+  "iata_code": "SVO",
+  "iata_city": "MOW",
+  "name_rus": "Шереметьево",
+  "name_eng": "Sheremetyevo",
+  "city_rus": "Москва",
+  "city_eng": "Moscow",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "DME",
+  "iata_city": "MOW",
+  "name_rus": "Домодедово",
+  "name_eng": "Domodedovo",
+  "city_rus": "Москва",
+  "city_eng": "Moscow",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "VKO",
+  "iata_city": "MOW",
+  "name_rus": "Внуково",
+  "name_eng": "Vnukovo",
+  "city_rus": "Москва",
+  "city_eng": "Moscow",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "ZIA",
+  "iata_city": "MOW",
+  "name_rus": "Жуковский",
+  "name_eng": "Zhukovskiy",
+  "city_rus": "Москва",
+  "city_eng": "Moscow",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "LED",
+  "name_rus": "Пулково",
+  "name_eng": "Pulkovo",
+  "city_rus": "Санкт-Петербург",
+  "city_eng": "St Petersburg",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "VVO",
+  "name_rus": "Владивосток",
+  "name_eng": "Vladivostok",
+  "city_rus": "Владивосток",
+  "city_eng": "Vladivostok",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "KZN",
+  "name_rus": "Казань",
+  "name_eng": "Kazan",
+  "city_rus": "Казань",
+  "city_eng": "Kazan",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "KJA",
+  "name_rus": "Емельяново",
+  "name_eng": "Emelyanovo",
+  "city_rus": "Красноярск",
+  "city_eng": "Krasnojarsk",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "GDX",
+  "name_rus": "Сокол",
+  "name_eng": "Sokol",
+  "city_rus": "Магадан",
+  "city_eng": "Magadan",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "MRV",
+  "name_rus": "Минеральные Воды",
+  "name_eng": "Mineralnye Vodyj",
+  "city_rus": "Минеральные Воды",
+  "city_eng": "Mineralnye Vody",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "OVB",
+  "name_rus": "Толмачево",
+  "name_eng": "Tolmachevo",
+  "city_rus": "Новосибирск",
+  "city_eng": "Novosibirsk",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "PKC",
+  "name_rus": "Елизово",
+  "name_eng": "Yelizovo",
+  "city_rus": "Петропавловск-Камчатский",
+  "city_eng": "Petropavlovsk-Kamchats",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "KHV",
+  "name_rus": "Хабаровск (Новый)",
+  "name_eng": "Khabarovsk(Novy)",
+  "city_rus": "Хабаровск",
+  "city_eng": "Khabarovsk",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "UUS",
+  "name_rus": "Южно-Сахалинск",
+  "name_eng": "Yuzhno-Sakhalinsk",
+  "city_rus": "Южно-Сахалинск",
+  "city_eng": "Yuzhno-Sakhalinsk",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "ULY",
+  "name_rus": "Восточный",
+  "name_eng": "Vostochny",
+  "city_rus": "Ульяновск",
+  "city_eng": "Ulyanovsk",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "UFA",
+  "name_rus": "Уфа",
+  "name_eng": "Ufa",
+  "city_rus": "Уфа",
+  "city_eng": "Ufa",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "ABA",
+  "name_rus": "Абакан",
+  "name_eng": "Abakan",
+  "city_rus": "Абакан",
+  "city_eng": "Abakan",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "ASF",
+  "name_rus": "Астрахань",
+  "name_eng": "Astrakhan",
+  "city_rus": "Астрахань",
+  "city_eng": "Astrakhan",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "BTK",
+  "name_rus": "Братск",
+  "name_eng": "Bratsk",
+  "city_rus": "Братск",
+  "city_eng": "Bratsk",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "SVX",
+  "name_rus": "Кольцово",
+  "name_eng": "Koltsovo International Airport",
+  "city_rus": "Екатеринбург",
+  "city_eng": "Ekaterinburg",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "IKT",
+  "name_rus": "Иркутск",
+  "name_eng": "Irkutsk",
+  "city_rus": "Иркутск",
+  "city_eng": "Irkutsk",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "KEJ",
+  "name_rus": "Кемерово",
+  "name_eng": "Kemerovo",
+  "city_rus": "Кемерово",
+  "city_eng": "Kemerovo",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "KRR",
+  "name_rus": "Пашковский",
+  "name_eng": "Pashkovsky",
+  "city_rus": "Краснодар",
+  "city_eng": "Krasnodar",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "MQF",
+  "name_rus": "Магнитогорск",
+  "name_eng": "Magnitogorsk",
+  "city_rus": "Магнитогорск",
+  "city_eng": "Magnitogorsk",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "NJC",
+  "name_rus": "Нижневартовск",
+  "name_eng": "Nizhnevartovsk",
+  "city_rus": "Нижневартовск",
+  "city_eng": "Nizhnevartovsk",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "PEE",
+  "name_rus": "Большое Савино",
+  "name_eng": "Bolshoe Savino",
+  "city_rus": "Пермь",
+  "city_eng": "Perm",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "ROV",
+  "name_rus": "Ростов",
+  "name_eng": "Rostov",
+  "city_rus": "Ростов",
+  "city_eng": "Rostov",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "SGC",
+  "name_rus": "Сургут",
+  "name_eng": "Surgut",
+  "city_rus": "Сургут",
+  "city_eng": "Surgut",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "TJM",
+  "name_rus": "Рощино",
+  "name_eng": "Roschino",
+  "city_rus": "Тюмень",
+  "city_eng": "Tyumen",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "HMA",
+  "name_rus": "Ханты-Мансийск",
+  "name_eng": "Khanty-Mansiysk",
+  "city_rus": "Ханты-Мансийск",
+  "city_eng": "Khanty-mansiysk",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "CEK",
+  "name_rus": "Челябинск",
+  "name_eng": "Chelyabinsk",
+  "city_rus": "Челябинск",
+  "city_eng": "Chelyabinsk",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "ESL",
+  "name_rus": "Элиста",
+  "name_eng": "Elista",
+  "city_rus": "Элиста",
+  "city_eng": "Elista",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "YKS",
+  "name_rus": "Якутск",
+  "name_eng": "Yakutsk",
+  "city_rus": "Якутск",
+  "city_eng": "Yakutsk",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "AER",
+  "name_rus": "Адлер - Сочи",
+  "name_eng": "Adler - Sochi",
+  "city_rus": "Адлер",
+  "city_eng": "Adler",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "GOJ",
+  "name_rus": "Стригино",
+  "name_eng": "Strigino",
+  "city_rus": "Нижний Новгород",
+  "city_eng": "Nizhniy Novgorod",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "KUF",
+  "name_rus": "Курумоч",
+  "name_eng": "Kurumoch",
+  "city_rus": "Самара",
+  "city_eng": "Samara",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "AAQ",
+  "name_rus": "Витязево",
+  "name_eng": "Vityazevo",
+  "city_rus": "Анапа",
+  "city_eng": "Anapa",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "ARH",
+  "name_rus": "Талаги",
+  "name_eng": "Talagi",
+  "city_rus": "Архангельск",
+  "city_eng": "Arkhangelsk",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "BAX",
+  "name_rus": "Барнаул",
+  "name_eng": "Barnaul",
+  "city_rus": "Барнаул",
+  "city_eng": "Barnaul",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "EGO",
+  "name_rus": "Белгород",
+  "name_eng": "Belgorod",
+  "city_rus": "Белгород",
+  "city_eng": "Belgorod",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "BQS",
+  "name_rus": "Игнатьево",
+  "name_eng": "Ignatievo",
+  "city_rus": "Благовещенск",
+  "city_eng": "Blagoveschensk",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "BZK",
+  "name_rus": "Брянск",
+  "name_eng": "Briansk",
+  "city_rus": "Брянск",
+  "city_eng": "Briansk",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "OGZ",
+  "name_rus": "Беслан",
+  "name_eng": "Beslan",
+  "city_rus": "Владикавказ",
+  "city_eng": "Vladikavkaz",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "VOG",
+  "name_rus": "Волгоград",
+  "name_eng": "Volgograd",
+  "city_rus": "Волгоград",
+  "city_eng": "Volgograd",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "VOZ",
+  "name_rus": "Чертовицкое",
+  "name_eng": "Chertovitskoye",
+  "city_rus": "Воронеж",
+  "city_eng": "Voronezh",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "GRV",
+  "name_rus": "Грозный",
+  "name_eng": "Groznyj",
+  "city_rus": "Грозный",
+  "city_eng": "Groznyj",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "KGD",
+  "name_rus": "Калининград",
+  "name_eng": "Kaliningrad",
+  "city_rus": "Калининград",
+  "city_eng": "Kaliningrad",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "LPK",
+  "name_rus": "Липецк",
+  "name_eng": "Lipetsk",
+  "city_rus": "Липецк",
+  "city_eng": "Lipetsk",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "MCX",
+  "name_rus": "Уйташ",
+  "name_eng": "Uitash",
+  "city_rus": "Махачкала",
+  "city_eng": "Makhachkala",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "MMK",
+  "name_rus": "Мурманск",
+  "name_eng": "Murmansk Airport Murmashi",
+  "city_rus": "Мурманск",
+  "city_eng": "Murmansk",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "NBC",
+  "name_rus": "Набережные Челны",
+  "name_eng": "Naberevnye Chelny",
+  "city_rus": "Набережные Челны",
+  "city_eng": "Naberevnye Chelny",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "NOZ",
+  "name_rus": "Новокузнецк",
+  "name_eng": "Novokuznetsk",
+  "city_rus": "Новокузнецк",
+  "city_eng": "Novokuznetsk",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "OMS",
+  "name_rus": "Омск",
+  "name_eng": "Omsk",
+  "city_rus": "Омск",
+  "city_eng": "Omsk",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "PKV",
+  "name_rus": "Псков",
+  "name_eng": "Pskov",
+  "city_rus": "Псков",
+  "city_eng": "Pskov",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "RTW",
+  "name_rus": "Саратов",
+  "name_eng": "Saratov",
+  "city_rus": "Саратов",
+  "city_eng": "Saratov",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "STW",
+  "name_rus": "Ставрополь",
+  "name_eng": "Stavropol",
+  "city_rus": "Ставрополь",
+  "city_eng": "Stavropol",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "SCW",
+  "name_rus": "Сыктывкар",
+  "name_eng": "Syktyvkar",
+  "city_rus": "Сыктывкар",
+  "city_eng": "Syktyvkar",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "TOF",
+  "name_rus": "Богашево",
+  "name_eng": "Bogashevo",
+  "city_rus": "Томск",
+  "city_eng": "Tomsk",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "UUD",
+  "name_rus": "Мухино",
+  "name_eng": "Mukhino",
+  "city_rus": "Улан-Удэ",
+  "city_eng": "Ulan-ude",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "CSY",
+  "name_rus": "Чебоксары",
+  "name_eng": "Cheboksary",
+  "city_rus": "Чебоксары",
+  "city_eng": "Cheboksary",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "HTA",
+  "name_rus": "Чита",
+  "name_eng": "Chita",
+  "city_rus": "Чита",
+  "city_eng": "Chita",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "REN",
+  "name_rus": "Оренбург",
+  "name_eng": "Orenburg",
+  "city_rus": "Оренбург",
+  "city_eng": "Orenburg",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "NAL",
+  "name_rus": "Нальчик",
+  "name_eng": "Nalchik",
+  "city_rus": "Нальчик",
+  "city_eng": "Nalchik",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "JOK",
+  "name_rus": "Йошкар-Ола",
+  "name_eng": "Joshkar-Ola",
+  "city_rus": "Йошкар-Ола",
+  "city_eng": "Joshkar-Ola",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "IJK",
+  "name_rus": "Ижевск",
+  "name_eng": "Izhevsk",
+  "city_rus": "Ижевск",
+  "city_eng": "Izhevsk",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "NNM",
+  "name_rus": "Нарян-Мар",
+  "name_eng": "Naryan-Mar",
+  "city_rus": "Нарьян-Мар",
+  "city_eng": "Naryan-Mar",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "PEZ",
+  "name_rus": "Пенза",
+  "name_eng": "Penza",
+  "city_rus": "Пенза",
+  "city_eng": "Penza",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "SLY",
+  "name_rus": "Салехард",
+  "name_eng": "Salekhard",
+  "city_rus": "Салехард",
+  "city_eng": "Salekhard",
+  "country_rus": "Россия",
+  "country_eng": "Russian Federation"
+}, {
+  "iata_code": "OTP",
+  "name_eng": "Henri Coanda International",
+  "city_rus": "Бухарест",
+  "city_eng": "Bucharest",
+  "country_rus": "Румыния",
+  "country_eng": "Romania"
+}, {
+  "iata_code": "RUH",
+  "name_eng": "King Khaled Intl",
+  "city_rus": "Халлсберг",
+  "city_eng": "Riyadh",
+  "country_rus": "Саудовская Аравия",
+  "country_eng": "Saudi Arabia"
+}, {
+  "iata_code": "SEZ",
+  "name_eng": "Seychelles International Airport",
+  "city_rus": "Остров Махе",
+  "city_eng": "Mahe Island",
+  "country_rus": "Сейшельские о-ва",
+  "country_eng": "Seychelles"
+}, {
+  "iata_code": "PRN",
+  "name_eng": "Prishtina International Airport",
+  "city_eng": "Prishtina",
+  "country_rus": "Сербия",
+  "country_eng": "Serbia"
+}, {
+  "iata_code": "SIN",
+  "name_eng": "Changi",
+  "city_rus": "Сингапур",
+  "city_eng": "Singapore",
+  "country_rus": "Сингапур",
+  "country_eng": "Singapore"
+}, {
+  "iata_code": "BTS",
+  "name_eng": "M. R. Љtefбnika",
+  "city_rus": "Братислава",
+  "city_eng": "Bratislava",
+  "country_rus": "Словакия",
+  "country_eng": "Slovakia"
+}, {
+  "iata_code": "LJU",
+  "name_eng": "Brnik",
+  "city_rus": "Любляна",
+  "city_eng": "Ljubljana",
+  "country_rus": "Словения",
+  "country_eng": "Slovenia"
+}, {
+  "iata_code": "DEN",
+  "name_rus": "Международный аэропорт Денвер",
+  "name_eng": "Denver International",
+  "city_rus": "Денвер",
+  "city_eng": "Denver",
+  "country_rus": "США",
+  "country_eng": "United States"
+}, {
+  "iata_code": "MCO",
+  "name_rus": "Орландо",
+  "name_eng": "Orlando International",
+  "city_rus": "Орландо",
+  "city_eng": "Orlando, FL",
+  "country_rus": "США",
+  "country_eng": "United States"
+}, {
+  "iata_code": "ATL",
+  "name_rus": "Атланта",
+  "name_eng": "Hartsfield-jackson Atlanta International",
+  "city_rus": "Атланта",
+  "city_eng": "Atlanta, GA",
+  "country_rus": "США",
+  "country_eng": "United States"
+}, {
+  "iata_code": "JFK",
+  "name_rus": "Нью-Йорк",
+  "name_eng": "John F Kennedy Intl",
+  "city_rus": "Нью-Йорк",
+  "city_eng": "New York",
+  "country_rus": "США",
+  "country_eng": "United States"
+}, {
+  "iata_code": "DFW",
+  "name_rus": "Даллас",
+  "name_eng": "Dallas/Fort Worth International",
+  "city_rus": "Даллас",
+  "city_eng": "Dallas, TX",
+  "country_rus": "США",
+  "country_eng": "United States"
+}, {
+  "iata_code": "LGA",
+  "name_eng": "La Guardia",
+  "city_rus": "Нью-Йорк",
+  "city_eng": "New York",
+  "country_rus": "США",
+  "country_eng": "United States"
+}, {
+  "iata_code": "EWR",
+  "name_rus": "Ньюарк",
+  "name_eng": "Newark Liberty International",
+  "city_rus": "Ньюарк",
+  "city_eng": "Newark",
+  "country_rus": "США",
+  "country_eng": "United States"
+}, {
+  "iata_code": "PHL",
+  "name_rus": "Филадельфия",
+  "name_eng": "Philadelphia International",
+  "city_rus": "Филадельфия",
+  "city_eng": "Philadelphia",
+  "country_rus": "США",
+  "country_eng": "United States"
+}, {
+  "iata_code": "SEA",
+  "name_rus": "Сиэтл",
+  "name_eng": "Seattle-Tacoma International",
+  "city_rus": "Сиэтл",
+  "city_eng": "Seattle, WA",
+  "country_rus": "США",
+  "country_eng": "United States"
+}, {
+  "iata_code": "DYU",
+  "name_rus": "Душанбе",
+  "name_eng": "Dushanbe",
+  "city_rus": "Душанбе",
+  "city_eng": "Dushanbe",
+  "country_rus": "Таджикистан",
+  "country_eng": "Tajikistan"
+}, {
+  "iata_code": "LBD",
+  "name_rus": "Худжанд",
+  "name_eng": "Khudzhand",
+  "city_rus": "Худжанд",
+  "city_eng": "Khudzhand",
+  "country_rus": "Таджикистан",
+  "country_eng": "Tajikistan"
+}, {
+  "iata_code": "BKK",
+  "name_rus": "Бангкок",
+  "name_eng": "Suvarnabhumi International",
+  "city_rus": "Бангкок",
+  "city_eng": "Bangkok",
+  "country_rus": "Таиланд",
+  "country_eng": "Thailand"
+}, {
+  "iata_code": "KBV",
+  "name_rus": "Краби",
+  "name_eng": "Krabi",
+  "city_rus": "Краби",
+  "city_eng": "Krabi",
+  "country_rus": "Таиланд",
+  "country_eng": "Thailand"
+}, {
+  "iata_code": "HKT",
+  "name_rus": "Пхукет",
+  "name_eng": "Phuket International",
+  "city_rus": "Пхукет",
+  "city_eng": "Phuket",
+  "country_rus": "Таиланд",
+  "country_eng": "Thailand"
+}, {
+  "iata_code": "TUN",
+  "name_eng": "Carthage",
+  "city_rus": "Тунис",
+  "city_eng": "Tunis",
+  "country_rus": "Тунис",
+  "country_eng": "Tunisia"
+}, {
+  "iata_code": "MIR",
+  "name_rus": "Монастир",
+  "name_eng": "Monastir",
+  "city_rus": "Монастир",
+  "city_eng": "Monastir",
+  "country_rus": "Тунис",
+  "country_eng": "Tunisia"
+}, {
+  "iata_code": "ASB",
+  "name_eng": "Ashgabat",
+  "city_rus": "Ашхабад",
+  "city_eng": "Ashgabat",
+  "country_rus": "Туркменистан",
+  "country_eng": "Turkmenistan"
+}, {
+  "iata_code": "IST",
+  "name_eng": "Ataturk",
+  "city_rus": "Стамбул",
+  "city_eng": "Istanbul",
+  "country_rus": "Турция",
+  "country_eng": "Turkey"
+}, {
+  "iata_code": "AYT",
+  "name_rus": "Анталия",
+  "name_eng": "Antalya",
+  "city_rus": "Анталия",
+  "city_eng": "Antalya",
+  "country_rus": "Турция",
+  "country_eng": "Turkey"
+}, {
+  "iata_code": "SAW",
+  "name_eng": "Sabiha Gokcen",
+  "city_rus": "Стамбул",
+  "city_eng": "Istanbul",
+  "country_rus": "Турция",
+  "country_eng": "Turkey"
+}, {
+  "iata_code": "AZN",
+  "name_rus": "Андижан",
+  "name_eng": "Andizhan",
+  "city_rus": "Андижан",
+  "city_eng": "Andizhan",
+  "country_rus": "Узбекистан",
+  "country_eng": "Uzbekistan"
+}, {
+  "iata_code": "BHK",
+  "name_rus": "Бухара",
+  "name_eng": "Bukhara",
+  "city_rus": "Бухара",
+  "city_eng": "Bukhara",
+  "country_rus": "Узбекистан",
+  "country_eng": "Uzbekistan"
+}, {
+  "iata_code": "FEG",
+  "name_rus": "Фергана",
+  "name_eng": "Fergana",
+  "city_rus": "Фергана",
+  "city_eng": "Fergana",
+  "country_rus": "Узбекистан",
+  "country_eng": "Uzbekistan"
+}, {
+  "iata_code": "NMA",
+  "name_rus": "Наманган",
+  "name_eng": "Namangan",
+  "city_rus": "Наманган",
+  "city_eng": "Namangan",
+  "country_rus": "Узбекистан",
+  "country_eng": "Uzbekistan"
+}, {
+  "iata_code": "SKD",
+  "name_rus": "Самарканд",
+  "name_eng": "Samarkand",
+  "city_rus": "Самарканд",
+  "city_eng": "Samarkand",
+  "country_rus": "Узбекистан",
+  "country_eng": "Uzbekistan"
+}, {
+  "iata_code": "TAS",
+  "name_rus": "Южный",
+  "name_eng": "Yuzhny",
+  "city_rus": "Ташкент",
+  "city_eng": "Tashkent",
+  "country_rus": "Узбекистан",
+  "country_eng": "Uzbekistan"
+}, {
+  "iata_code": "KBP",
+  "name_rus": "Борисполь",
+  "name_eng": "Borispol",
+  "city_rus": "Борисполь",
+  "city_eng": "Borispol",
+  "country_rus": "Украина",
+  "country_eng": "Ukraine"
+}, {
+  "iata_code": "DNK",
+  "name_rus": "Днепр",
+  "name_eng": "Dnepr",
+  "city_rus": "Днепр",
+  "city_eng": "Dnepr",
+  "country_rus": "Украина",
+  "country_eng": "Ukraine"
+}, {
+  "iata_code": "IFO",
+  "name_rus": "Иваново-Франковск",
+  "name_eng": "Ivano-Frankovsk",
+  "city_rus": "Ивано-Франковск",
+  "city_eng": "Ivano-Frankovsk",
+  "country_rus": "Украина",
+  "country_eng": "Ukraine"
+}, {
+  "iata_code": "IEV",
+  "name_rus": "Жуляны",
+  "name_eng": "Zhulhany",
+  "city_rus": "Киев",
+  "city_eng": "Kiev",
+  "country_rus": "Украина",
+  "country_eng": "Ukraine"
+}, {
+  "iata_code": "LWO",
+  "name_rus": "Скнилов",
+  "name_eng": "Sknilow",
+  "city_rus": "Львов",
+  "city_eng": "Lviv",
+  "country_rus": "Украина",
+  "country_eng": "Ukraine"
+}, {
+  "iata_code": "MPW",
+  "name_rus": "Мариуполь",
+  "name_eng": "Mariupol",
+  "city_rus": "Мариуполь",
+  "city_eng": "Mariupol",
+  "country_rus": "Украина",
+  "country_eng": "Ukraine"
+}, {
+  "iata_code": "NLV",
+  "name_rus": "Николаев",
+  "name_eng": "Nikolaev",
+  "city_rus": "Николаев",
+  "city_eng": "Nikolaev",
+  "country_rus": "Украина",
+  "country_eng": "Ukraine"
+}, {
+  "iata_code": "HRK",
+  "name_rus": "Харьков",
+  "name_eng": "Kharkov",
+  "city_rus": "Харьков",
+  "city_eng": "Kharkov",
+  "country_rus": "Украина",
+  "country_eng": "Ukraine"
+}, {
+  "iata_code": "VIN",
+  "name_rus": "Винница",
+  "name_eng": "Vinnica",
+  "city_rus": "Винница",
+  "city_eng": "Vinnica",
+  "country_rus": "Украина",
+  "country_eng": "Ukraine"
+}, {
+  "iata_code": "KHE",
+  "name_rus": "Херсон",
+  "name_eng": "Kherson",
+  "city_rus": "Херсон",
+  "city_eng": "Kherson",
+  "country_rus": "Украина",
+  "country_eng": "Ukraine"
+}, {
+  "iata_code": "HEL",
+  "name_rus": "Хельсинки-Вантаа",
+  "name_eng": "Helsinki-Vantaa",
+  "city_eng": "Vantaa",
+  "country_rus": "Финляндия",
+  "country_eng": "Finland"
+}, {
+  "iata_code": "CDG",
+  "name_rus": "Париж",
+  "name_eng": "Charles De Gaulle",
+  "city_rus": "Париж",
+  "city_eng": "Paris",
+  "country_rus": "Франция",
+  "country_eng": "France"
+}, {
+  "iata_code": "ORY",
+  "name_rus": "Орли",
+  "name_eng": "Orly",
+  "city_rus": "Париж",
+  "city_eng": "Paris",
+  "country_rus": "Франция",
+  "country_eng": "France"
+}, {
+  "iata_code": "LYS",
+  "name_eng": "St-Exupйry",
+  "city_rus": "Лион",
+  "city_eng": "Lyon",
+  "country_rus": "Франция",
+  "country_eng": "France"
+}, {
+  "iata_code": "MRS",
+  "name_eng": "Marseille Provence Airport",
+  "city_rus": "Марсель",
+  "city_eng": "Marseille",
+  "country_rus": "Франция",
+  "country_eng": "France"
+}, {
+  "iata_code": "TLS",
+  "name_eng": "Blagnac",
+  "city_rus": "Тулуз",
+  "city_eng": "Toulouse",
+  "country_rus": "Франция",
+  "country_eng": "France"
+}, {
+  "iata_code": "NCE",
+  "name_rus": "Ницца",
+  "name_eng": "Nice",
+  "city_rus": "Ницца",
+  "city_eng": "Nice",
+  "country_rus": "Франция",
+  "country_eng": "France"
+}, {
+  "iata_code": "ZAG",
+  "name_eng": "Pleso",
+  "city_rus": "Загреб",
+  "city_eng": "Zagreb",
+  "country_rus": "Хорватия",
+  "country_eng": "Croatia"
+}, {
+  "iata_code": "TIV",
+  "name_rus": "Тиват",
+  "name_eng": "Tivat",
+  "city_rus": "Тиват",
+  "city_eng": "Tivat",
+  "country_rus": "Черногория",
+  "country_eng": "Montenegro"
+}, {
+  "iata_code": "TGD",
+  "name_eng": "Golubovci",
+  "city_eng": "Podgorica",
+  "country_rus": "Черногория",
+  "country_eng": "Montenegro"
+}, {
+  "iata_code": "PRG",
+  "name_rus": "Прага",
+  "name_eng": "Ruzyne",
+  "city_rus": "Прага",
+  "city_eng": "Prague",
+  "country_rus": "Чехия",
+  "country_eng": "Czech Republic"
+}, {
+  "iata_code": "BRQ",
+  "name_rus": "Брно",
+  "name_eng": "Turany",
+  "city_rus": "Брно",
+  "city_eng": "Brno",
+  "country_rus": "Чехия",
+  "country_eng": "Czech Republic"
+}, {
+  "iata_code": "KLV",
+  "name_rus": "Карловы Вары",
+  "name_eng": "Karlovy Vary",
+  "city_rus": "Карловы-Вары",
+  "city_eng": "Karlovy Vary",
+  "country_rus": "Чехия",
+  "country_eng": "Czech Republic"
+}, {
+  "iata_code": "ZRH",
+  "name_rus": "Цюрих",
+  "name_eng": "Zьrich-Kloten",
+  "city_rus": "Цюрих",
+  "city_eng": "Zurich",
+  "country_rus": "Швейцария",
+  "country_eng": "Switzerland"
+}, {
+  "iata_code": "GVA",
+  "name_eng": "Geneve-cointrin",
+  "city_rus": "Женева",
+  "city_eng": "Geneva",
+  "country_rus": "Швейцария",
+  "country_eng": "Switzerland"
+}, {
+  "iata_code": "BRN",
+  "name_rus": "Берн",
+  "name_eng": "Berne",
+  "city_rus": "Берн",
+  "city_eng": "Berne",
+  "country_rus": "Швейцария",
+  "country_eng": "Switzerland"
+}, {
+  "iata_code": "ARN",
+  "name_eng": "Arlanda",
+  "city_rus": "Стокгольм",
+  "city_eng": "Stockholm",
+  "country_rus": "Швеция",
+  "country_eng": "Sweden"
+}, {
+  "iata_code": "GOT",
+  "name_rus": "Готенбург",
+  "name_eng": "Landvetter",
+  "city_rus": "Готенбург",
+  "city_eng": "Gothenburg",
+  "country_rus": "Швеция",
+  "country_eng": "Sweden"
+}, {
+  "iata_code": "MMX",
+  "name_rus": "Малмо",
+  "name_eng": "Sturup",
+  "city_rus": "Малмо",
+  "city_eng": "Malmo",
+  "country_rus": "Швеция",
+  "country_eng": "Sweden"
+}, {
+  "iata_code": "CMB",
+  "name_rus": "Коломбо",
+  "name_eng": "Bandaranayake",
+  "city_rus": "Коломбо",
+  "city_eng": "Colombo",
+  "country_rus": "Шри-Ланка",
+  "country_eng": "Sri Lanka"
+}, {
+  "iata_code": "TLL",
+  "name_rus": "Таллинн",
+  "name_eng": "Ulemiste",
+  "city_rus": "Таллинн",
+  "city_eng": "Tallinn",
+  "country_rus": "Эстония",
+  "country_eng": "Estonia"
+}, {
+  "iata_code": "GCJ",
+  "name_eng": "Grand Central",
+  "city_rus": "Йоханнесбург",
+  "city_eng": "Johannesburg",
+  "country_rus": "ЮАР",
+  "country_eng": "South Africa"
+}, {
+  "iata_code": "NRT",
+  "name_eng": "Narita International Airport",
+  "city_rus": "Токио",
+  "city_eng": "Tokyo",
+  "country_rus": "Япония",
+  "country_eng": "Japan"
+}]}
+
+
